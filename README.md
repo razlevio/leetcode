@@ -16,40 +16,46 @@ Solving challenges could help you to improve your algorithmic thinking and impro
 
 ### Repository Structure
 
-There's a folder for each challenge nested in its own kyu/dan
+There's a folder for topic algorithms, database, shell and concurrency challenge nested in its own kyu/dan
 
 ```ascii
-├── 8-kyu/
-│   ├── KataName/
-│   │   ├── solutionFile
-│   │   └── testFile
+├── Topic/
+│   ├── Programming Language/
+│   │   ├── Challenge Name/
+│   │      └── Solution File
 │   └── ...
 │
-├── 7-kyu/
-│   ├── factorial/
-│   │   ├── solution.java
-│   │   └── test.java
+├── Algorithms/
+│   ├── Java/
+│   │   ├── Two Sum
+│   │      └── TwoSum.java
 │   └── ...
 ```
 
-### LeetCode Easy Solutions
+### LeetCode Algorithms Solutions
 
-| # | Title | Solution | 
-|---| ----- | -------- | 
-<!---|1946|[Largest Number After Mutating Substring](https://leetcode.com/problems/largest-number-after-mutating-substring/) | [C++](./algorithms/cpp/largestNumberAfterMutatingSubstring/LargestNumberAfterMutatingSubstring.cpp)--->
-
----
-
-### LeetCode Medium Solutions
-
-| # | Title | Solution | 
-|---| ----- | -------- | 
-<!---|1946|[Largest Number After Mutating Substring](https://leetcode.com/problems/largest-number-after-mutating-substring/) | [C++](./algorithms/cpp/largestNumberAfterMutatingSubstring/LargestNumberAfterMutatingSubstring.cpp)--->
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|NUM|[Challenge Name](https://leetcode.com/problems/largest-number-after-mutating-substring/) | [Go](./Algorithms/path), [Java](./Algorithms/path)|Medium|
 
 ---
 
-### LeetCode Hard Solutions
+### LeetCode Database Solutions
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|NUM|[Challenge Name](https://leetcode.com/problems/largest-number-after-mutating-substring/) | [Go](./Algorithms/path), [Java](./Algorithms/path)|Medium|
 
-| # | Title | Solution | 
-|---| ----- | -------- | 
-<!---|1946|[Largest Number After Mutating Substring](https://leetcode.com/problems/largest-number-after-mutating-substring/) | [C++](./algorithms/cpp/largestNumberAfterMutatingSubstring/LargestNumberAfterMutatingSubstring.cpp)--->
+---
+
+### LeetCode Shell Solutions
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|NUM|[Challenge Name](https://leetcode.com/problems/largest-number-after-mutating-substring/) | [Go](./Algorithms/path), [Java](./Algorithms/path)|Medium|
+
+---
+
+### LeetCode Concurrency Solutions
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|NUM|[Challenge Name](https://leetcode.com/problems/largest-number-after-mutating-substring/) | [Go](./Algorithms/path), [Java](./Algorithms/path)|Medium|
