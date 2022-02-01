@@ -36,7 +36,7 @@ There's a folder for topic algorithms, database, shell and concurrency challenge
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|NUM|[Challenge Name](https://leetcode.com/problems/largest-number-after-mutating-substring/) | [Go](./Algorithms/path), [Java](./Algorithms/path)|Medium|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](./Algorithms/Java/Contains-Duplicate/ContainsDuplicate.java)|Easy|
 
 ---
 
