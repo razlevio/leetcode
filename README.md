@@ -37,6 +37,7 @@ There's a folder for topic algorithms, database, shell and concurrency challenge
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](./Algorithms/Java/Contains-Duplicate/ContainsDuplicate.java)|Easy|
+|698|[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)|[Java](./Algorithms/Java/Partition-to-K-Equal-Sum-Subset/CanPartitionSubset.java) |Medium|
 
 ---
 
