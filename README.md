@@ -36,6 +36,7 @@ There's a folder for topic algorithms, database, shell and concurrency challenge
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Java](./Algorithms/Java/Remove-Duplicates-From-Sorted-Array/RemoveDuplicates.java)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](./Algorithms/Java/Contains-Duplicate/ContainsDuplicate.java)|Easy|
 |698|[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)|[Java](./Algorithms/Java/Partition-to-K-Equal-Sum-Subset/CanPartitionSubset.java) |Medium|
 |1306|[Jump Game III](https://leetcode.com/problems/jump-game-iii/)|[Java](./Algorithms/Java/Jump-Game-III/JumpGameIII.java)|Medium|
