@@ -49,7 +49,7 @@ There's a folder for topic algorithms, database, shell and concurrency challenge
 ### LeetCode Database Solutions
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|NUM|[Challenge Name](https://leetcode.com/problems/largest-number-after-mutating-substring/) | [Go](./Algorithms/path), [Java](./Algorithms/path)|Medium|
+|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[MySQL](./Database/Combine-Two-Tables/CombineTwoTables.sql)|Easy|
 
 ---
 
