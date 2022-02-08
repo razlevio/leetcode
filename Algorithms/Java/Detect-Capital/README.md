@@ -22,3 +22,5 @@ Given a string  `word`, return  `true`  if the usage of capitals in it is right.
 
 -   `1 <= word.length <= 100`
 -   `word`  consists of lowercase and uppercase English letters.
+
+![image](https://user-images.githubusercontent.com/66571396/152949475-da6f6593-00bb-4306-9fbb-7d15c8acff23.png)
