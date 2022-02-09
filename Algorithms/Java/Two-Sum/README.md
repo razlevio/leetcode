@@ -28,3 +28,5 @@ You can return the answer in any order.
 -   **Only one valid answer exists.**
 
 **Follow-up:** Can you come up with an algorithm that is less than `O(n2)` time complexity?
+
+![image](https://user-images.githubusercontent.com/66571396/153145948-cd23cef3-e43c-45e1-a151-733780684063.png)
