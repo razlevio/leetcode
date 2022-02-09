@@ -36,6 +36,7 @@ There's a folder for topic algorithms, database, shell and concurrency challenge
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Java](./Algorithms/Java/Two-Sum/TwoSum.java)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Java](./Algorithms/Java/Remove-Duplicates-From-Sorted-Array/RemoveDuplicates.java)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](./Algorithms/Java/Contains-Duplicate/ContainsDuplicate.java)|Easy|
 |520|[Detect Captial](https://leetcode.com/problems/detect-capital/)|[Java](./Algorithms/Java/Detect-Capital/DetectCapital.java)|Easy|
